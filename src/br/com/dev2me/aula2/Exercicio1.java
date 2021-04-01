@@ -32,12 +32,9 @@ public class Exercicio1 {
 		}*/
 
 
-	}
-
 	System.out.println("Programa Finalizado");
 
 
-		System.out.println("Programa Finalizado");
 
 	}
 
